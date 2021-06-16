@@ -1,6 +1,9 @@
 {
   "name": "socket-Chat-socket",
   "version": "0.0.1",
+  "engines": {
+    "node": "14.x"
+  },
   "description": "my first socket.io app",
   "dependencies": {
     "express": "^4.17.1",
